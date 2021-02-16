@@ -1,0 +1,8 @@
+{
+  "name": "Quiz Application",
+  "description": "Quiz applicatin modified to hold quiz",
+  "repository": "https://github.com/heroku/quizqz",
+  "logo": "https://cdn.rawgit.com/heroku/quizqz/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
